@@ -117,11 +117,11 @@ author:
   avatar           :"/Users/jiahnmin/Downloads/IMG_0218.JPG"
   bio              : "07.02.2004"
   location         : "Boston, MA"
-  email            :
+  email            : jiahnmin@bu.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:jiahnmin@bu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url:https://github.com/jm-0703
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
