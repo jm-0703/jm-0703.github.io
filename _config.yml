@@ -89,7 +89,7 @@ yandex_site_verification :
 baidu_site_verification  :
 # Load extra CSS
 include:
-  - assets/css/custom.css
+  - assets/custom.css
 
 # Social Sharing
 twitter:
