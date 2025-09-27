@@ -87,6 +87,9 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
+# Load extra CSS
+include:
+  - assets/css/custom.css
 
 # Social Sharing
 twitter:
