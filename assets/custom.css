@@ -1,1 +1,6 @@
 
+/* Make avatar bigger */
+.author__avatar img {
+  width: 180px !important;   /* default is ~100px */
+  height: 180px !important;
+}
