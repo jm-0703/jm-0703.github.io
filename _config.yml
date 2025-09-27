@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiahn Min"
-  avatar           :"/Users/jiahnmin/Downloads/IMG_0218.JPG"
+  avatar           :"/assets/images/IMG_0218.JPG"
   bio              : "07.02.2004"
   location         : "Boston, MA"
   email            : jiahnmin@bu.edu
