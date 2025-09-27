@@ -1,8 +1,14 @@
+/* Force avatar into a horizontal oval */
+.author__avatar {
+  width: 200px !important;
+  height: 140px !important;
+  border-radius: 50% / 40% !important; /* horizontal oval */
+  overflow: hidden; /* ensures image crops inside */
+}
 
-/* Make avatar a horizontal oval */
 .author__avatar img {
-  width: 200px !important;   /* wider */
-  height: 140px !important;  /* shorter */
-  border-radius: 50% !important;  /* keeps it oval */
-  object-fit: cover;         /* crops image nicely instead of squishing */
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  border-radius: 0 !important; /* prevent double rounding */
 }
