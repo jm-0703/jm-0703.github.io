@@ -1,6 +1,8 @@
 
-/* Make avatar bigger */
+/* Make avatar a horizontal oval */
 .author__avatar img {
-  width: 180px !important;   /* default is ~100px */
-  height: 180px !important;
+  width: 200px !important;   /* wider */
+  height: 140px !important;  /* shorter */
+  border-radius: 50% !important;  /* keeps it oval */
+  object-fit: cover;         /* crops image nicely instead of squishing */
 }
